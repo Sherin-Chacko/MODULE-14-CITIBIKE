@@ -62,5 +62,8 @@ Males are more likely to start a trip farther from the main city of NYC than the
 
 <img width="1224" alt="Screen Shot 2022-01-14 at 8 43 32 PM" src="https://user-images.githubusercontent.com/91294352/149608939-242371ce-9c85-4e14-ad81-e9fb732a668a.png">
 
-3. Ride Ending Locations by Gender:
+2. Ride Ending Locations by Gender:
 Males are more likely to end their trip across the river in NYC than the others.
+
+<img width="1217" alt="Screen Shot 2022-01-14 at 8 44 56 PM" src="https://user-images.githubusercontent.com/91294352/149608965-532b1e29-f465-4921-b495-1c36aedeb48a.png">
+
