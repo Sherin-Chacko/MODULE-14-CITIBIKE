@@ -60,6 +60,7 @@ c) Target market should be males who require transportation to work and also for
 1. Ride Starting Locations by Gender:
 Males are more likely to start a trip farther from the main city of NYC than the others.
 
+<img width="1224" alt="Screen Shot 2022-01-14 at 8 43 32 PM" src="https://user-images.githubusercontent.com/91294352/149608939-242371ce-9c85-4e14-ad81-e9fb732a668a.png">
 
 3. Ride Ending Locations by Gender:
 Males are more likely to end their trip across the river in NYC than the others.
