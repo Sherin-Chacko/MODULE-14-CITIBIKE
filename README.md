@@ -18,6 +18,8 @@ b) Create and style worksheets, dashboards, and stories in Tableau.
 <img width="1211" alt="Screen Shot 2022-01-14 at 7 38 19 PM" src="https://user-images.githubusercontent.com/91294352/149604652-f0db4fd3-36ec-42a8-85c8-a4e2090a8ff7.png">
 
 ### 2.2) Checkout Times by Gender:
+
+<img width="1220" alt="Gender" src="https://user-images.githubusercontent.com/91294352/149604681-81c2a9f4-7dfe-43d7-a7ef-67471bccf148.png">
 ### 2.3) Trips (Weekday per Hour):
 ### 2.4) Trips by Gender (Weekday per Hour):
 ### 2.5) Trips by Gender and User Type (Weekday per Hour):
