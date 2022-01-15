@@ -54,3 +54,7 @@ a) Male subscribers are the highest users and follow the high use times of trave
 b) Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am.
 
 c) Target market should be males needing transportation to work and for weekend activities.
+
+## ADDITIONAL VISUALIZATION FOR FUTURE ANALYSIS:
+
+1. Ride Starting Locations by Gender:
