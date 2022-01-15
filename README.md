@@ -3,7 +3,7 @@ TABLEAU
 
 ## 1) OVERVIEW OF THE STATISTICAL ANALYSIS:
 
-Des Moines requested data for a business proposal. August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines. Other data points include usage durations, peak usage times, and the key target market. 
+August 2019 Citibike data from NYC was reviewed by looking at geographical data as well as data disaggregated by user types and genders to determine if it would be a good investment for Des Moines. Des Moines requested data for a business proposal. Other data factors include usage durations, peak usage times and the key target market. 
 
 The purpose is to:
 
@@ -14,6 +14,7 @@ b) Create and style worksheets, dashboards, and stories in Tableau.
 ## 2) RESULTS OF THE NYC CITIBIKE ANALYSIS:
 
 ### 2.1) Checkout Times for All Users:
+
 ### 2.2) Checkout Times by Gender:
 ### 2.3) Trips (Weekday per Hour):
 ### 2.4) Trips by Gender (Weekday per Hour):
