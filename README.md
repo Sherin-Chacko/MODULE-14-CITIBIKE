@@ -51,10 +51,15 @@ The divergence line shows that there is high usage on 1/3 of the bikes.
 ## 3) SUMMARY:
 a) Male subscribers are the highest users and follow the high use times of travel to and from work.
 
-b) Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am.
+b) Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5am.
 
-c) Target market should be males needing transportation to work and for weekend activities.
+c) Target market should be males who require transportation to work and also for weekend activities.
 
 ## ADDITIONAL VISUALIZATION FOR FUTURE ANALYSIS:
 
 1. Ride Starting Locations by Gender:
+Males are more likely to start a trip farther from the main city of NYC than the others.
+
+
+3. Ride Ending Locations by Gender:
+Males are more likely to end their trip across the river in NYC than the others.
