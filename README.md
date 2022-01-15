@@ -46,6 +46,8 @@ Non-peak hours are between 1-5am.
 ### 2.7) Number of Rides with Bike ID:
 The divergence line shows that there is high usage on 1/3 of the bikes.
 
+<img width="1227" alt="Screen Shot 2022-01-14 at 8 36 10 PM" src="https://user-images.githubusercontent.com/91294352/149608347-6c66b621-cac4-4a61-b0dd-30ce2dcdea4c.png">
+
 ## 3) SUMMARY:
 a) Male subscribers are the highest users and follow the high use times of travel to and from work.
 
