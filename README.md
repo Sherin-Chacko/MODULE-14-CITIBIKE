@@ -37,7 +37,6 @@ Males are high users during the peak hours.
 Males subscribers are the highest users followed by female subscribers.
 
 <img width="1221" alt="Screen Shot 2022-01-14 at 8 10 53 PM" src="https://user-images.githubusercontent.com/91294352/149608245-1fda0d2f-7d60-44b3-b47a-5501301ce82d.png">
-9-090c-4a32-aa84-bfc447f50386.png">
 
 ### 2.6) Number of Rides per Hour:
 Non-peak hours are between 1-5am.
