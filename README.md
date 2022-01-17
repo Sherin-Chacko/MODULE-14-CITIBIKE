@@ -67,3 +67,7 @@ Males are more likely to end their trip across the river in NYC than the others.
 
 <img width="1217" alt="Screen Shot 2022-01-14 at 8 44 56 PM" src="https://user-images.githubusercontent.com/91294352/149608965-532b1e29-f465-4921-b495-1c36aedeb48a.png">
 
+
+## LINK TO TABLEAU STORY:
+
+https://public.tableau.com/app/profile/sherin.chacko1904/viz/CitiBikeDataAnalysis_16423968270900/Story1?publish=yes
